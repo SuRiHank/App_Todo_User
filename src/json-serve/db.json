@@ -1,0 +1,24 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Han Dang Phuoc",
+        "email": "HanDP@example.com"
+      },
+      {
+        "id": 2,
+        "name": "Hank DP",
+        "email": "Dang2003@example.com"
+      },
+      {
+        "id": 3,
+        "name": "Jane Smith",
+        "email": "jane@example.com"
+      },
+      {
+        "id": 4,
+        "name": "John Doe",
+        "email": "john@example.com"
+      }
+    ]
+  }
